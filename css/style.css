@@ -92,6 +92,10 @@ h6 {
     justify-content: center;
     height: 100vh;
 }
+.white-text-container {
+  background-image: url(../img/smiling-doctor.jpg);
+  background-size: cover;
+}
 .sector-container{
     width: 70%;
     min-width: 1000px;

@@ -10,7 +10,7 @@ body {
     border-radius: 4px;
     border: 1px solid gray;
 }
-.zone: :hover {
+.zone :hover {
     background-color: #CAA200;
 }
 a {
@@ -44,7 +44,7 @@ h1 {
     cursor: pointer;
     font-family: 'Times New Roman', Times, serif;
 }
-h3 {
+h2 {
     color: rgb(129, 46, 46);
     font-family: 'Source Sans Pro', sans-serif;
             text-transform:uppercase;
@@ -94,8 +94,7 @@ h6 {
 }
 .white-text-container {
   background-image: url(../img/smiling-doctor.jpg);
-  background-size: cover;
-}
+  background-size: cover;}
 .sector-container{
     width: 70%;
     min-width: 1000px;
